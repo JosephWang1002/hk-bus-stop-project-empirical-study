@@ -1,0 +1,7 @@
+﻿Model,R²,AIC,Moran_I_resid
+OLS (elements only),0.3837,24005.6,0.2093
+OLS (+ controls),0.3957,23948.9,0.1984
+SLM (elements only),0.4817,23536.9,—
+SLM (+ controls),0.4888,23498.4,—
+SEM (elements only),0.3722,23475.0,—
+SEM (+ controls),0.3831,23460.6,—

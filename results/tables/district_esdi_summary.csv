@@ -1,0 +1,19 @@
+﻿NAME_EN,n,esdi_mean,esdi_std,safety_mean,old_density_mean,n_hotspot,hotspot_pct
+Kwun Tong District,213,0.6928,0.104,53.595,13098.0,213,100.0
+Sham Shui Po District,208,0.5833,0.1,49.2008,9395.0,208,100.0
+Wong Tai Sin District,101,0.5359,0.0855,58.6998,10044.0,101,100.0
+Kowloon City District,179,0.5269,0.104,50.7359,8238.0,162,90.5
+Yau Tsim Mong District,170,0.5201,0.0915,50.1695,7950.0,158,92.9
+Eastern District,175,0.5176,0.1036,44.7916,6823.0,159,90.9
+Central and Western District,148,0.3989,0.1044,44.1673,3625.0,16,10.8
+Wan Chai District ,142,0.3854,0.1144,44.4213,3325.0,15,10.6
+Kwai Tsing District,149,0.3616,0.0997,54.4464,4690.0,4,2.7
+Southern District,200,0.3379,0.125,41.1045,1442.0,7,3.5
+Tsuen Wan District,144,0.2433,0.1123,50.9135,927.0,0,0.0
+Islands District,111,0.2423,0.1195,47.0956,149.0,0,0.0
+Yuen Long District,272,0.2373,0.1235,50.6683,724.0,0,0.0
+Tai Po District,185,0.235,0.1137,49.2982,395.0,0,0.0
+Sai Kung District,172,0.2297,0.1191,50.8658,567.0,1,0.6
+Sha Tin District,202,0.2282,0.1091,58.3161,1999.0,1,0.5
+North District,164,0.2253,0.129,50.6351,407.0,0,0.0
+Tuen Mun District,145,0.2074,0.0942,56.5815,1118.0,0,0.0

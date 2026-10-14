@@ -1,0 +1,102 @@
+{
+  "shelter": {
+    "optimal_threshold": 1,
+    "R2": 0.3667,
+    "beta_below": 17.487,
+    "beta_above": 3.7277,
+    "p_below": 2.2473452813678517e-256,
+    "p_above": 1.0106809399644804e-09,
+    "F_test": 262.451,
+    "F_p": 1.1102230246251565e-16
+  },
+  "seat": {
+    "optimal_threshold": 1,
+    "R2": 0.1452,
+    "beta_below": 11.8956,
+    "beta_above": 1.3094,
+    "p_below": 1.9172269824752126e-78,
+    "p_above": 0.12043534822903572,
+    "F_test": 78.464,
+    "F_p": 1.1102230246251565e-16
+  },
+  "information_board": {
+    "optimal_threshold": 1,
+    "R2": 0.0727,
+    "beta_below": -7.2924,
+    "beta_above": 3.5446,
+    "p_below": 2.6834697072764045e-22,
+    "p_above": 2.650108821611169e-27,
+    "F_test": 146.142,
+    "F_p": 1.1102230246251565e-16
+  },
+  "light_pole": {
+    "optimal_threshold": 1,
+    "R2": 0.0244,
+    "beta_below": -1.4722,
+    "beta_above": 1.5503,
+    "p_below": 0.016692947608136412,
+    "p_above": 0.35627014337329743,
+    "F_test": 2.487,
+    "F_p": 0.11489442689379292
+  },
+  "pillar": {
+    "optimal_threshold": 1,
+    "R2": 0.1043,
+    "beta_below": 7.0468,
+    "beta_above": 1.2092,
+    "p_below": 2.5558965790990324e-21,
+    "p_above": 6.826296708652242e-07,
+    "F_test": 41.347,
+    "F_p": 1.4725320962583055e-10
+  },
+  "step": {
+    "optimal_threshold": 1,
+    "R2": 0.0657,
+    "beta_below": 6.3397,
+    "beta_above": 0.4753,
+    "p_below": 7.550426485957947e-28,
+    "p_above": 0.6376310330959167,
+    "F_test": 19.786,
+    "F_p": 8.970250880646624e-06
+  },
+  "bin": {
+    "optimal_threshold": 1,
+    "R2": 0.0278,
+    "beta_below": -2.6901,
+    "beta_above": 0.4338,
+    "p_below": 5.110750367719649e-05,
+    "p_above": 0.8614968181812517,
+    "F_test": 1.372,
+    "F_p": 0.24157210821608754
+  },
+  "ads_board": {
+    "optimal_threshold": 1,
+    "R2": 0.0957,
+    "beta_below": 8.6783,
+    "beta_above": 3.8599,
+    "p_below": 4.999837470396033e-27,
+    "p_above": 2.9538850453777497e-06,
+    "F_test": 11.853,
+    "F_p": 0.000583352520064917
+  },
+  "Bollard": {
+    "optimal_threshold": 1,
+    "R2": 0.0457,
+    "beta_below": 7.1185,
+    "beta_above": 0.2299,
+    "p_below": 3.0503469931557262e-09,
+    "p_above": 0.3532644953049242,
+    "F_test": 25.262,
+    "F_p": 5.291351873326633e-07
+  },
+  "handrail": {
+    "optimal_threshold": 1,
+    "R2": 0.0416,
+    "beta_below": 5.3576,
+    "beta_above": 1.0286,
+    "p_below": 1.0426295774547453e-09,
+    "p_above": 0.15431710018734754,
+    "F_test": 9.967,
+    "F_p": 0.0016093659603112487
+  }
+}

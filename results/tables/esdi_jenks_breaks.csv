@@ -1,0 +1,5 @@
+﻿Class,Lower_bound,Upper_bound,n
+Tier 1 (Highest),0.5628,0.9692,580
+Tier 2 (High),0.3858,0.5625,884
+Tier 3 (Medium),0.2256,0.3855,782
+Low priority,0.01,0.2253,834

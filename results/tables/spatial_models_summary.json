@@ -1,0 +1,20 @@
+{
+  "Model_A_baseline": {
+    "OLS_R2": 0.3837,
+    "SLM_R2": 0.4817,
+    "SEM_R2": 0.3722,
+    "SLM_rho": 0.5213,
+    "Moran_I_resid": 0.2093
+  },
+  "Model_B_with_controls": {
+    "OLS_R2": 0.3957,
+    "SLM_R2": 0.4888,
+    "SEM_R2": 0.3831,
+    "SLM_rho": 0.5205,
+    "Moran_I_resid": 0.1984,
+    "R2_improvement": 0.012
+  },
+  "MGWR": {
+    "success": true
+  }
+}
